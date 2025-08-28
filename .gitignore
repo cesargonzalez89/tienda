@@ -1,0 +1,74 @@
+# Ignore IDEs
+# Eclipse
+.metadata/
+.project
+.classpath
+.idea/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# VS Code
+.vscode/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Build output
+/bin/
+/build/
+/out/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+/build/
+
+# JAR files
+*.jar
+*.war
+*.ear
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Linux system files
+*~
+
+# Java specific
+*.log
+hs_err_pid*
+
+# Ignore configuration files that are often personal
+*.swp
+*.swo
+*~
+
+# Spring Boot
+spring-boot-devtools.jar
+
+# IntelliJ
+.idea/
+
+# NetBeans
+nbproject/private/
+
+# Gradle wrapper
+gradle-wrapper.jar
+
+# Other logs
+*.log
+
+# OS generated files
+ehthumbs.db
+Icon?
+Desktop.ini

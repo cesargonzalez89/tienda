@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "price": 643.03,
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "price": 744.13,
+    "stock": 125
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "price": 230.98,
+    "stock": 377
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "price": 111.47,
+    "stock": 379
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "price": 893.25,
+    "stock": 44
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "price": 594.58,
+    "stock": 16
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "price": 39.5,
+    "stock": 111
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "price": 240.33,
+    "stock": 308
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "price": 36.27,
+    "stock": 101
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "price": 718.85,
+    "stock": 359
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "price": 549.49,
+    "stock": 112
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "price": 454.71,
+    "stock": 142
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "price": 811.33,
+    "stock": 3
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "price": 761.21,
+    "stock": 81
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "price": 701.15,
+    "stock": 174
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "price": 285.09,
+    "stock": 110
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "price": 957.63,
+    "stock": 172
+  },
+  {
+    "id": 18,
+    "name": "Product 18",
+    "price": 111.19,
+    "stock": 194
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "price": 105.75,
+    "stock": 433
+  },
+  {
+    "id": 20,
+    "name": "Product 20",
+    "price": 350.51,
+    "stock": 135
+  },
+  {
+    "id": 21,
+    "name": "Product 21",
+    "price": 809.05,
+    "stock": 373
+  },
+  {
+    "id": 22,
+    "name": "Product 22",
+    "price": 464.83,
+    "stock": 63
+  },
+  {
+    "id": 23,
+    "name": "Product 23",
+    "price": 973.37,
+    "stock": 193
+  },
+  {
+    "id": 24,
+    "name": "Product 24",
+    "price": 88.01,
+    "stock": 150
+  },
+  {
+    "id": 25,
+    "name": "Product 25",
+    "price": 831.1,
+    "stock": 316
+  },
+  {
+    "id": 26,
+    "name": "Product 26",
+    "price": 886.59,
+    "stock": 185
+  },
+  {
+    "id": 27,
+    "name": "Product 27",
+    "price": 581.57,
+    "stock": 360
+  },
+  {
+    "id": 28,
+    "name": "Product 28",
+    "price": 78.86,
+    "stock": 338
+  },
+  {
+    "id": 29,
+    "name": "Product 29",
+    "price": 235.62,
+    "stock": 148
+  },
+  {
+    "id": 30,
+    "name": "Product 30",
+    "price": 985.36,
+    "stock": 437
+  },
+  {
+    "id": 31,
+    "name": "Product 31",
+    "price": 240.46,
+    "stock": 51
+  },
+  {
+    "id": 32,
+    "name": "Product 32",
+    "price": 386.32,
+    "stock": 232
+  },
+  {
+    "id": 33,
+    "name": "Product 33",
+    "price": 639.32,
+    "stock": 186
+  },
+  {
+    "id": 34,
+    "name": "Product 34",
+    "price": 171.03,
+    "stock": 181
+  },
+  {
+    "id": 35,
+    "name": "Product 35",
+    "price": 217.41,
+    "stock": 136
+  },
+  {
+    "id": 36,
+    "name": "Product 36",
+    "price": 704.8,
+    "stock": 349
+  },
+  {
+    "id": 37,
+    "name": "Product 37",
+    "price": 651.55,
+    "stock": 311
+  },
+  {
+    "id": 38,
+    "name": "Product 38",
+    "price": 638.62,
+    "stock": 273
+  },
+  {
+    "id": 39,
+    "name": "Product 39",
+    "price": 731.83,
+    "stock": 83
+  },
+  {
+    "id": 40,
+    "name": "Product 40",
+    "price": 467.63,
+    "stock": 138
+  },
+  {
+    "id": 41,
+    "name": "Product 41",
+    "price": 989.62,
+    "stock": 327
+  },
+  {
+    "id": 42,
+    "name": "Product 42",
+    "price": 691.27,
+    "stock": 112
+  },
+  {
+    "id": 43,
+    "name": "Product 43",
+    "price": 687.76,
+    "stock": 431
+  },
+  {
+    "id": 44,
+    "name": "Product 44",
+    "price": 770.62,
+    "stock": 28
+  },
+  {
+    "id": 45,
+    "name": "Product 45",
+    "price": 236.76,
+    "stock": 16
+  },
+  {
+    "id": 46,
+    "name": "Product 46",
+    "price": 806.99,
+    "stock": 205
+  },
+  {
+    "id": 47,
+    "name": "Product 47",
+    "price": 275.06,
+    "stock": 108
+  },
+  {
+    "id": 48,
+    "name": "Product 48",
+    "price": 914.0,
+    "stock": 290
+  },
+  {
+    "id": 49,
+    "name": "Product 49",
+    "price": 877.6,
+    "stock": 161
+  },
+  {
+    "id": 50,
+    "name": "Product 50",
+    "price": 220.5,
+    "stock": 255
+  },
+  {
+    "id": 51,
+    "name": "Product 51",
+    "price": 401.67,
+    "stock": 468
+  },
+  {
+    "id": 52,
+    "name": "Product 52",
+    "price": 646.42,
+    "stock": 73
+  },
+  {
+    "id": 53,
+    "name": "Product 53",
+    "price": 272.23,
+    "stock": 126
+  },
+  {
+    "id": 54,
+    "name": "Product 54",
+    "price": 747.53,
+    "stock": 275
+  },
+  {
+    "id": 55,
+    "name": "Product 55",
+    "price": 270.11,
+    "stock": 299
+  },
+  {
+    "id": 56,
+    "name": "Product 56",
+    "price": 434.15,
+    "stock": 298
+  },
+  {
+    "id": 57,
+    "name": "Product 57",
+    "price": 405.4,
+    "stock": 112
+  },
+  {
+    "id": 58,
+    "name": "Product 58",
+    "price": 997.34,
+    "stock": 70
+  },
+  {
+    "id": 59,
+    "name": "Product 59",
+    "price": 514.43,
+    "stock": 46
+  },
+  {
+    "id": 60,
+    "name": "Product 60",
+    "price": 758.22,
+    "stock": 440
+  },
+  {
+    "id": 61,
+    "name": "Product 61",
+    "price": 118.55,
+    "stock": 321
+  },
+  {
+    "id": 62,
+    "name": "Product 62",
+    "price": 168.38,
+    "stock": 348
+  },
+  {
+    "id": 63,
+    "name": "Product 63",
+    "price": 427.93,
+    "stock": 32
+  },
+  {
+    "id": 64,
+    "name": "Product 64",
+    "price": 390.92,
+    "stock": 305
+  },
+  {
+    "id": 65,
+    "name": "Product 65",
+    "price": 996.15,
+    "stock": 270
+  },
+  {
+    "id": 66,
+    "name": "Product 66",
+    "price": 258.9,
+    "stock": 283
+  },
+  {
+    "id": 67,
+    "name": "Product 67",
+    "price": 862.16,
+    "stock": 5
+  },
+  {
+    "id": 68,
+    "name": "Product 68",
+    "price": 683.47,
+    "stock": 58
+  },
+  {
+    "id": 69,
+    "name": "Product 69",
+    "price": 684.89,
+    "stock": 274
+  },
+  {
+    "id": 70,
+    "name": "Product 70",
+    "price": 753.36,
+    "stock": 393
+  },
+  {
+    "id": 71,
+    "name": "Product 71",
+    "price": 644.55,
+    "stock": 57
+  },
+  {
+    "id": 72,
+    "name": "Product 72",
+    "price": 300.56,
+    "stock": 80
+  },
+  {
+    "id": 73,
+    "name": "Product 73",
+    "price": 459.18,
+    "stock": 488
+  },
+  {
+    "id": 74,
+    "name": "Product 74",
+    "price": 724.86,
+    "stock": 368
+  },
+  {
+    "id": 75,
+    "name": "Product 75",
+    "price": 270.75,
+    "stock": 256
+  },
+  {
+    "id": 76,
+    "name": "Product 76",
+    "price": 764.33,
+    "stock": 259
+  },
+  {
+    "id": 77,
+    "name": "Product 77",
+    "price": 913.49,
+    "stock": 445
+  },
+  {
+    "id": 78,
+    "name": "Product 78",
+    "price": 629.04,
+    "stock": 430
+  },
+  {
+    "id": 79,
+    "name": "Product 79",
+    "price": 642.55,
+    "stock": 311
+  },
+  {
+    "id": 80,
+    "name": "Product 80",
+    "price": 206.92,
+    "stock": 191
+  },
+  {
+    "id": 81,
+    "name": "Product 81",
+    "price": 764.88,
+    "stock": 276
+  },
+  {
+    "id": 82,
+    "name": "Product 82",
+    "price": 953.96,
+    "stock": 472
+  },
+  {
+    "id": 83,
+    "name": "Product 83",
+    "price": 535.04,
+    "stock": 0
+  },
+  {
+    "id": 84,
+    "name": "Product 84",
+    "price": 602.95,
+    "stock": 250
+  },
+  {
+    "id": 85,
+    "name": "Product 85",
+    "price": 29.28,
+    "stock": 475
+  },
+  {
+    "id": 86,
+    "name": "Product 86",
+    "price": 369.35,
+    "stock": 425
+  },
+  {
+    "id": 87,
+    "name": "Product 87",
+    "price": 808.7,
+    "stock": 122
+  },
+  {
+    "id": 88,
+    "name": "Product 88",
+    "price": 67.35,
+    "stock": 449
+  },
+  {
+    "id": 89,
+    "name": "Product 89",
+    "price": 571.68,
+    "stock": 40
+  },
+  {
+    "id": 90,
+    "name": "Product 90",
+    "price": 94.8,
+    "stock": 248
+  },
+  {
+    "id": 91,
+    "name": "Product 91",
+    "price": 817.85,
+    "stock": 500
+  },
+  {
+    "id": 92,
+    "name": "Product 92",
+    "price": 762.99,
+    "stock": 392
+  },
+  {
+    "id": 93,
+    "name": "Product 93",
+    "price": 134.5,
+    "stock": 337
+  },
+  {
+    "id": 94,
+    "name": "Product 94",
+    "price": 480.52,
+    "stock": 281
+  },
+  {
+    "id": 95,
+    "name": "Product 95",
+    "price": 173.47,
+    "stock": 270
+  },
+  {
+    "id": 96,
+    "name": "Product 96",
+    "price": 873.7,
+    "stock": 216
+  },
+  {
+    "id": 97,
+    "name": "Product 97",
+    "price": 964.71,
+    "stock": 475
+  },
+  {
+    "id": 98,
+    "name": "Product 98",
+    "price": 543.9,
+    "stock": 373
+  },
+  {
+    "id": 99,
+    "name": "Product 99",
+    "price": 692.96,
+    "stock": 365
+  },
+  {
+    "id": 100,
+    "name": "Product 100",
+    "price": 318.6,
+    "stock": 343
+  }
+]
